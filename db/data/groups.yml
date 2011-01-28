@@ -1,0 +1,121 @@
+--- 
+-  
+  attributes: 
+    section: "0"
+    name: fondos
+    created_at: 2010-06-02 09:15:44
+    background_id: 
+    title: fondos
+    updated_at: 2010-06-02 09:15:44
+    color: "#000"
+    id: "1"
+  attributes_cache: {}
+
+-  
+  attributes: 
+    section: "1"
+    name: dinero
+    created_at: 2010-06-02 09:15:47
+    background_id: "107"
+    title: dinero
+    updated_at: 2010-06-02 09:18:01
+    color: "#000"
+    id: "2"
+  attributes_cache: {}
+
+-  
+  attributes: 
+    section: "1"
+    name: doplacie
+    created_at: 2010-06-02 09:16:17
+    background_id: "111"
+    title: doplacie
+    updated_at: 2010-06-02 09:18:01
+    color: "#000"
+    id: "3"
+  attributes_cache: {}
+
+-  
+  attributes: 
+    section: "1"
+    name: elotromundo
+    created_at: 2010-06-02 09:16:20
+    background_id: "112"
+    title: elotromundo
+    updated_at: 2010-06-02 09:18:01
+    color: "#000"
+    id: "4"
+  attributes_cache: {}
+
+-  
+  attributes: 
+    section: "1"
+    name: encargos
+    created_at: 2010-06-02 09:16:36
+    background_id: "113"
+    title: encargos
+    updated_at: 2010-06-02 09:18:01
+    color: "#000"
+    id: "5"
+  attributes_cache: {}
+
+-  
+  attributes: 
+    section: "1"
+    name: enciclopedia
+    created_at: 2010-06-02 09:16:53
+    background_id: "184"
+    title: enciclopedia
+    updated_at: 2010-06-02 09:18:01
+    color: "#000"
+    id: "6"
+  attributes_cache: {}
+
+-  
+  attributes: 
+    section: "1"
+    name: historietas
+    created_at: 2010-06-02 09:17:16
+    background_id: "114"
+    title: historietas
+    updated_at: 2010-06-02 09:18:01
+    color: "#000"
+    id: "7"
+  attributes_cache: {}
+
+-  
+  attributes: 
+    section: "1"
+    name: lecrou
+    created_at: 2010-06-02 09:17:26
+    background_id: "115"
+    title: lecrou
+    updated_at: 2010-06-02 09:18:01
+    color: "#000"
+    id: "8"
+  attributes_cache: {}
+
+-  
+  attributes: 
+    section: "1"
+    name: muvirecor
+    created_at: 2010-06-02 09:17:33
+    background_id: "116"
+    title: muvirecor
+    updated_at: 2010-06-02 09:18:01
+    color: "#000"
+    id: "9"
+  attributes_cache: {}
+
+-  
+  attributes: 
+    section: "1"
+    name: tierra
+    created_at: 2010-06-02 09:17:42
+    background_id: "118"
+    title: tierra
+    updated_at: 2010-06-02 09:18:01
+    color: "#000"
+    id: "10"
+  attributes_cache: {}
+

@@ -1,0 +1,195 @@
+/*
+Copyright (c) 2008, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.6.0
+*/
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}legend{color:#000;}del,ins{text-decoration:none;}
+
+html {
+    font-size:90%;
+    font-family:'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Verdana, Tahoma, sans-serif;
+    background-color:#f0f0f0;
+}
+html, body {
+    height:100%;
+    width:100%;
+}
+a {
+    color:black;
+    text-decoration:none;
+}
+a:hover {
+    text-decoration:underline;
+}
+h1, h2, h3, h4 {
+    font-family:'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Verdana, Tahoma, sans-serif;
+}
+h2 {
+    font-size:150%;
+    margin:1em 0 0.5em 0;
+}
+.rounded {
+    -moz-border-radius:5px;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+}
+div.info {
+    margin:10px;
+    color:gray;
+}
+#user {
+    text-align:right;
+    width:1000px;
+    margin:30px auto 3px auto;
+}
+#legal {
+    clear:both;
+    margin-top:3px;
+    height:7em;
+    font-size:80%;
+    letter-spacing:0.2em;
+    text-align:center;
+    font-family:'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Verdana, Tahoma, sans-serif;
+    color:gray;
+}
+#legal a {
+    letter-spacing:0.5em;
+    color:gray;
+}
+#page {
+    padding:20px;
+    width:1000px;
+    margin:0px auto;
+    background-color:white;
+    border:1px solid #e1e4e4;
+    -moz-border-radius:7px;
+    -webkit-border-radius:7px;
+    overflow:hidden;
+}
+#sitebar {
+    float:left;
+    width:140px;
+}
+#sitebar ul {
+    border-bottom:1px solid #e1e4e4;
+}
+#sitebar li {
+    font-family:'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Verdana, Tahoma, sans-serif;
+    border-top:1px solid #e1e4e4;
+}
+#sitebar li.top {
+    font-size:130%;
+}
+#sitebar li a {
+    display:block;
+    padding:5px 15px;
+}
+#sitebar li.top a {
+    padding:5px 5px;
+}
+#sitebar li a:hover {
+    text-decoration:none;
+    background-color:#f0f0f0;
+}
+#content {
+    margin-left:160px;
+}
+#top {
+    font-family:'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Verdana, Tahoma, sans-serif;
+    margin-left:160px;
+    padding-bottom:20px;
+}
+#top h1 {
+    font-size:200%;
+    margin-bottom:10px;
+}
+#top h2 {
+    font-size:130%;
+    margin-bottom:5px;
+}
+.actions {
+    margin-bottom:5px;
+    font-family:'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Verdana, Tahoma, sans-serif;
+}
+.actions a {
+    color:gray;
+    margin-right:1em;
+    background-color:#f0f0f0;
+    padding:3px 10px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+}
+.actions a:hover {
+    color:black;
+}
+table tr.odd {
+    background-color:#f0f0f0;
+}
+table tr.odd .actions a {
+    background-color:white;
+}
+table td {
+    padding:5px 5px;
+}
+td.actions {
+    font-size:80%;
+}
+td.actions a {
+    margin-bottom:5px;
+}
+ul.group {
+    padding:1em;
+    background-color:#f0f0f0;
+}
+ul.group li {
+    margin:5px 0;
+}
+fieldset li {
+    width:100%;
+    overflow:hidden;
+    margin:5px 0;
+}
+fieldset li label {
+    width:9em;
+    text-align:right;
+    float:left;
+    padding-right:1em;
+}
+fieldset li.boolean input {
+    margin-left:9em;
+    margin-right:0.5em;
+}
+fieldset li.boolean label {
+    padding-left:1em;
+    float:none;
+}
+form div.info {
+    margin-left:10em;
+    color:gray;
+    line-height:1.5em;
+}
+form div.info h3 {
+    font-size:120%;
+    color:black;
+    margin-top:1em;
+}
+form input[type=text] {
+    border:1px solid black;
+    padding:2px;
+}
+form input[type=submit] {
+    padding:3px 10px;
+}
+fieldset.buttons {
+    margin-left:10em;
+    margin-top:20px;
+}
+fieldset.buttons ol li {
+    display:block;
+    float:left;
+}
+fieldset.buttons a {
+    padding:3px 10px;
+}

@@ -1,0 +1,22 @@
+
+es:
+  activerecord:
+    models:
+      clip: "imágen"
+      post: "entrada"
+      group: "grupo"
+    attributes:
+      group:
+        name: "Nombre"
+        title: "Título"
+        section: "Es una sección"
+        resize_method: "Cómo se pone el fondo"
+      clip:
+        name: "Nombre"
+        media: "Fichero"
+
+  formtastic:
+    actions:
+      create: "Crear {{model}}"
+      update: "Guardar {{model}}"
+      

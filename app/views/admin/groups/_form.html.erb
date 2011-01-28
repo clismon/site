@@ -1,0 +1,13 @@
+<% semantic_form_for @group do |form|  %>
+  <%= form.error_messages %>
+  <% form.inputs do %>
+    <%= form.input :name %>
+    <%= form.input :title %>
+    <%= form.input :color%>
+    <%= form.input :section %>
+    <%= form.input :background, :as => :select, :collection => Clip.find_all_by_group_id(APP_CONFIG['background_group_id']), :include_blank => false %>
+  <% end %>
+  <% form.buttons do %>
+    <%= form.commit_button %>
+  <% end %>
+<% end %>

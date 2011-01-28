@@ -1,0 +1,2761 @@
+--- 
+- !ruby/object:Clip 
+  attributes: 
+    name: "a serena contemplacio\xCC\x81n color"
+    created_at: 2010-06-02 09:16:16
+    media_file_size: "67060"
+    updated_at: 2010-06-02 09:16:17
+    media_content_type: image/jpeg
+    group_id: "3"
+    id: "45"
+    height: "517"
+    media_file_name: a-serena-contemplacio_n-color.jpg
+    media_updated_at: 2010-06-02 09:16:16
+    width: "690"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: comodin
+    created_at: 2010-06-02 09:16:59
+    media_file_size: "490425"
+    updated_at: 2010-06-02 09:17:01
+    media_content_type: image/jpeg
+    group_id: "1"
+    id: "110"
+    height: "974"
+    media_file_name: comodin.jpg
+    media_updated_at: 2010-06-02 09:16:59
+    width: "2093"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: contenido 01
+    created_at: 2010-06-02 09:16:17
+    media_file_size: "122898"
+    updated_at: 2010-06-02 09:16:18
+    media_content_type: image/jpeg
+    group_id: "3"
+    id: "47"
+    height: "686"
+    media_file_name: contenido-01.jpg
+    media_updated_at: 2010-06-02 09:16:17
+    width: "945"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: contenido 02
+    created_at: 2010-06-02 09:16:18
+    media_file_size: "170476"
+    updated_at: 2010-06-02 09:16:19
+    media_content_type: image/jpeg
+    group_id: "3"
+    id: "48"
+    height: "686"
+    media_file_name: contenido-02.jpg
+    media_updated_at: 2010-06-02 09:16:18
+    width: "945"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: contenido 03
+    created_at: 2010-06-02 09:16:19
+    media_file_size: "82294"
+    updated_at: 2010-06-02 09:16:20
+    media_content_type: image/jpeg
+    group_id: "3"
+    id: "49"
+    height: "675"
+    media_file_name: contenido-03.jpg
+    media_updated_at: 2010-06-02 09:16:19
+    width: "945"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios01
+    created_at: 2010-06-02 09:16:36
+    media_file_size: "131850"
+    updated_at: 2010-06-02 09:16:37
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "74"
+    height: "718"
+    media_file_name: delirios01.jpg
+    media_updated_at: 2010-06-02 09:16:36
+    width: "551"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios02
+    created_at: 2010-06-02 09:16:37
+    media_file_size: "157215"
+    updated_at: 2010-06-02 09:16:37
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "75"
+    height: "571"
+    media_file_name: delirios02.jpg
+    media_updated_at: 2010-06-02 09:16:37
+    width: "945"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios03
+    created_at: 2010-06-02 09:16:37
+    media_file_size: "128564"
+    updated_at: 2010-06-02 09:16:38
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "76"
+    height: "662"
+    media_file_name: delirios03.jpg
+    media_updated_at: 2010-06-02 09:16:37
+    width: "492"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios04
+    created_at: 2010-06-02 09:16:38
+    media_file_size: "141600"
+    updated_at: 2010-06-02 09:16:38
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "77"
+    height: "696"
+    media_file_name: delirios04.jpg
+    media_updated_at: 2010-06-02 09:16:38
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios05
+    created_at: 2010-06-02 09:16:38
+    media_file_size: "163567"
+    updated_at: 2010-06-02 09:16:39
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "78"
+    height: "639"
+    media_file_name: delirios05.jpg
+    media_updated_at: 2010-06-02 09:16:38
+    width: "473"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios06
+    created_at: 2010-06-02 09:16:39
+    media_file_size: "122684"
+    updated_at: 2010-06-02 09:16:39
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "79"
+    height: "670"
+    media_file_name: delirios06.jpg
+    media_updated_at: 2010-06-02 09:16:39
+    width: "532"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios07
+    created_at: 2010-06-02 09:16:39
+    media_file_size: "182022"
+    updated_at: 2010-06-02 09:16:40
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "80"
+    height: "616"
+    media_file_name: delirios07.jpg
+    media_updated_at: 2010-06-02 09:16:39
+    width: "532"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios08
+    created_at: 2010-06-02 09:16:40
+    media_file_size: "165781"
+    updated_at: 2010-06-02 09:16:41
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "81"
+    height: "631"
+    media_file_name: delirios08.jpg
+    media_updated_at: 2010-06-02 09:16:40
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios09
+    created_at: 2010-06-02 09:16:41
+    media_file_size: "172771"
+    updated_at: 2010-06-02 09:16:41
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "82"
+    height: "677"
+    media_file_name: delirios09.jpg
+    media_updated_at: 2010-06-02 09:16:41
+    width: "472"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios10
+    created_at: 2010-06-02 09:16:41
+    media_file_size: "135194"
+    updated_at: 2010-06-02 09:16:42
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "83"
+    height: "626"
+    media_file_name: delirios10.jpg
+    media_updated_at: 2010-06-02 09:16:41
+    width: "496"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios11
+    created_at: 2010-06-02 09:16:42
+    media_file_size: "160280"
+    updated_at: 2010-06-02 09:16:42
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "84"
+    height: "591"
+    media_file_name: delirios11.jpg
+    media_updated_at: 2010-06-02 09:16:42
+    width: "937"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios12
+    created_at: 2010-06-02 09:16:42
+    media_file_size: "111057"
+    updated_at: 2010-06-02 09:16:43
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "85"
+    height: "647"
+    media_file_name: delirios12.jpg
+    media_updated_at: 2010-06-02 09:16:42
+    width: "473"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios13
+    created_at: 2010-06-02 09:16:43
+    media_file_size: "124107"
+    updated_at: 2010-06-02 09:16:43
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "86"
+    height: "709"
+    media_file_name: delirios13.jpg
+    media_updated_at: 2010-06-02 09:16:43
+    width: "1002"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios14
+    created_at: 2010-06-02 09:16:43
+    media_file_size: "160183"
+    updated_at: 2010-06-02 09:16:44
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "87"
+    height: "669"
+    media_file_name: delirios14.jpg
+    media_updated_at: 2010-06-02 09:16:44
+    width: "473"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios15
+    created_at: 2010-06-02 09:16:44
+    media_file_size: "116874"
+    updated_at: 2010-06-02 09:16:44
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "88"
+    height: "394"
+    media_file_name: delirios15.jpg
+    media_updated_at: 2010-06-02 09:16:44
+    width: "785"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios16
+    created_at: 2010-06-02 09:16:44
+    media_file_size: "158798"
+    updated_at: 2010-06-02 09:16:45
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "89"
+    height: "689"
+    media_file_name: delirios16.jpg
+    media_updated_at: 2010-06-02 09:16:44
+    width: "492"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios17
+    created_at: 2010-06-02 09:16:45
+    media_file_size: "162825"
+    updated_at: 2010-06-02 09:16:45
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "90"
+    height: "330"
+    media_file_name: delirios17.jpg
+    media_updated_at: 2010-06-02 09:16:45
+    width: "937"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios18
+    created_at: 2010-06-02 09:16:45
+    media_file_size: "144273"
+    updated_at: 2010-06-02 09:16:46
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "91"
+    height: "709"
+    media_file_name: delirios18.jpg
+    media_updated_at: 2010-06-02 09:16:45
+    width: "793"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios19
+    created_at: 2010-06-02 09:16:46
+    media_file_size: "162792"
+    updated_at: 2010-06-02 09:16:47
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "92"
+    height: "709"
+    media_file_name: delirios19.jpg
+    media_updated_at: 2010-06-02 09:16:46
+    width: "714"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios20
+    created_at: 2010-06-02 09:16:47
+    media_file_size: "139666"
+    updated_at: 2010-06-02 09:16:47
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "93"
+    height: "650"
+    media_file_name: delirios20.jpg
+    media_updated_at: 2010-06-02 09:16:47
+    width: "443"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios21
+    created_at: 2010-06-02 09:16:47
+    media_file_size: "75690"
+    updated_at: 2010-06-02 09:16:48
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "94"
+    height: "589"
+    media_file_name: delirios21.jpg
+    media_updated_at: 2010-06-02 09:16:47
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios22
+    created_at: 2010-06-02 09:16:48
+    media_file_size: "91514"
+    updated_at: 2010-06-02 09:16:48
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "95"
+    height: "591"
+    media_file_name: delirios22.jpg
+    media_updated_at: 2010-06-02 09:16:48
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios23
+    created_at: 2010-06-02 09:16:48
+    media_file_size: "106770"
+    updated_at: 2010-06-02 09:16:49
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "96"
+    height: "591"
+    media_file_name: delirios23.jpg
+    media_updated_at: 2010-06-02 09:16:48
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios24
+    created_at: 2010-06-02 09:16:49
+    media_file_size: "139075"
+    updated_at: 2010-06-02 09:16:49
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "97"
+    height: "425"
+    media_file_name: delirios24.jpg
+    media_updated_at: 2010-06-02 09:16:49
+    width: "953"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios25
+    created_at: 2010-06-02 09:16:49
+    media_file_size: "107193"
+    updated_at: 2010-06-02 09:16:50
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "98"
+    height: "665"
+    media_file_name: delirios25.jpg
+    media_updated_at: 2010-06-02 09:16:49
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios26
+    created_at: 2010-06-02 09:16:50
+    media_file_size: "103255"
+    updated_at: 2010-06-02 09:16:50
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "99"
+    height: "661"
+    media_file_name: delirios26.jpg
+    media_updated_at: 2010-06-02 09:16:50
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios27
+    created_at: 2010-06-02 09:16:50
+    media_file_size: "145023"
+    updated_at: 2010-06-02 09:16:51
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "100"
+    height: "638"
+    media_file_name: delirios27.jpg
+    media_updated_at: 2010-06-02 09:16:50
+    width: "726"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios28
+    created_at: 2010-06-02 09:16:51
+    media_file_size: "118433"
+    updated_at: 2010-06-02 09:16:51
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "101"
+    height: "662"
+    media_file_name: delirios28.jpg
+    media_updated_at: 2010-06-02 09:16:51
+    width: "463"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios29
+    created_at: 2010-06-02 09:16:51
+    media_file_size: "195395"
+    updated_at: 2010-06-02 09:16:52
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "102"
+    height: "567"
+    media_file_name: delirios29.jpg
+    media_updated_at: 2010-06-02 09:16:51
+    width: "793"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: delirios30
+    created_at: 2010-06-02 09:16:52
+    media_file_size: "68773"
+    updated_at: 2010-06-02 09:16:52
+    media_content_type: image/jpeg
+    group_id: "5"
+    id: "103"
+    height: "538"
+    media_file_name: delirios30.jpg
+    media_updated_at: 2010-06-02 09:16:52
+    width: "532"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero
+    created_at: 2010-06-02 09:16:54
+    media_file_size: "494560"
+    updated_at: 2010-06-02 09:16:56
+    media_content_type: image/jpeg
+    group_id: "1"
+    id: "107"
+    height: "1090"
+    media_file_name: dinero.jpg
+    media_updated_at: 2010-06-02 09:16:54
+    width: "2263"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 01
+    created_at: 2010-06-02 09:15:44
+    media_file_size: "114463"
+    updated_at: 2010-06-02 09:15:47
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "1"
+    height: "980"
+    media_file_name: dinero-01.jpg
+    media_updated_at: 2010-06-02 09:15:44
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 02
+    created_at: 2010-06-02 09:15:47
+    media_file_size: "164768"
+    updated_at: 2010-06-02 09:15:48
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "2"
+    height: "1008"
+    media_file_name: dinero-02.jpg
+    media_updated_at: 2010-06-02 09:15:47
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 03
+    created_at: 2010-06-02 09:15:48
+    media_file_size: "131221"
+    updated_at: 2010-06-02 09:15:49
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "3"
+    height: "1008"
+    media_file_name: dinero-03.jpg
+    media_updated_at: 2010-06-02 09:15:48
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 04
+    created_at: 2010-06-02 09:15:49
+    media_file_size: "105875"
+    updated_at: 2010-06-02 09:15:50
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "4"
+    height: "1025"
+    media_file_name: dinero-04.jpg
+    media_updated_at: 2010-06-02 09:15:49
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 05
+    created_at: 2010-06-02 09:15:50
+    media_file_size: "106568"
+    updated_at: 2010-06-02 09:15:50
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "5"
+    height: "567"
+    media_file_name: dinero-05.jpg
+    media_updated_at: 2010-06-02 09:15:50
+    width: "803"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 06
+    created_at: 2010-06-02 09:15:50
+    media_file_size: "101234"
+    updated_at: 2010-06-02 09:15:51
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "6"
+    height: "866"
+    media_file_name: dinero-06.jpg
+    media_updated_at: 2010-06-02 09:15:50
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 07
+    created_at: 2010-06-02 09:15:51
+    media_file_size: "150861"
+    updated_at: 2010-06-02 09:15:52
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "7"
+    height: "819"
+    media_file_name: dinero-07.jpg
+    media_updated_at: 2010-06-02 09:15:51
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 08
+    created_at: 2010-06-02 09:15:52
+    media_file_size: "131426"
+    updated_at: 2010-06-02 09:15:52
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "8"
+    height: "690"
+    media_file_name: dinero-08.jpg
+    media_updated_at: 2010-06-02 09:15:52
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 09
+    created_at: 2010-06-02 09:15:52
+    media_file_size: "153847"
+    updated_at: 2010-06-02 09:15:53
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "9"
+    height: "709"
+    media_file_name: dinero-09.jpg
+    media_updated_at: 2010-06-02 09:15:52
+    width: "1012"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 10
+    created_at: 2010-06-02 09:15:53
+    media_file_size: "124254"
+    updated_at: 2010-06-02 09:15:54
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "10"
+    height: "1039"
+    media_file_name: dinero-10.jpg
+    media_updated_at: 2010-06-02 09:15:53
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 11
+    created_at: 2010-06-02 09:15:54
+    media_file_size: "150805"
+    updated_at: 2010-06-02 09:15:55
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "11"
+    height: "1039"
+    media_file_name: dinero-11.jpg
+    media_updated_at: 2010-06-02 09:15:54
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 12
+    created_at: 2010-06-02 09:15:55
+    media_file_size: "120156"
+    updated_at: 2010-06-02 09:15:55
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "12"
+    height: "709"
+    media_file_name: dinero-12.jpg
+    media_updated_at: 2010-06-02 09:15:55
+    width: "999"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 13
+    created_at: 2010-06-02 09:15:55
+    media_file_size: "130895"
+    updated_at: 2010-06-02 09:15:56
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "13"
+    height: "709"
+    media_file_name: dinero-13.jpg
+    media_updated_at: 2010-06-02 09:15:55
+    width: "999"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 14
+    created_at: 2010-06-02 09:15:56
+    media_file_size: "156696"
+    updated_at: 2010-06-02 09:15:57
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "14"
+    height: "709"
+    media_file_name: dinero-14.jpg
+    media_updated_at: 2010-06-02 09:15:56
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 15
+    created_at: 2010-06-02 09:15:57
+    media_file_size: "160299"
+    updated_at: 2010-06-02 09:15:58
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "15"
+    height: "1008"
+    media_file_name: dinero-15.jpg
+    media_updated_at: 2010-06-02 09:15:57
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 16
+    created_at: 2010-06-02 09:15:58
+    media_file_size: "121166"
+    updated_at: 2010-06-02 09:15:59
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "16"
+    height: "938"
+    media_file_name: dinero-16.jpg
+    media_updated_at: 2010-06-02 09:15:58
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 17
+    created_at: 2010-06-02 09:15:59
+    media_file_size: "74826"
+    updated_at: 2010-06-02 09:16:00
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "17"
+    height: "764"
+    media_file_name: dinero-17.jpg
+    media_updated_at: 2010-06-02 09:15:59
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 18
+    created_at: 2010-06-02 09:16:00
+    media_file_size: "96024"
+    updated_at: 2010-06-02 09:16:00
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "18"
+    height: "811"
+    media_file_name: dinero-18.jpg
+    media_updated_at: 2010-06-02 09:16:00
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 19
+    created_at: 2010-06-02 09:16:00
+    media_file_size: "130627"
+    updated_at: 2010-06-02 09:16:01
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "19"
+    height: "1008"
+    media_file_name: dinero-19.jpg
+    media_updated_at: 2010-06-02 09:16:00
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 20
+    created_at: 2010-06-02 09:16:01
+    media_file_size: "143861"
+    updated_at: 2010-06-02 09:16:02
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "20"
+    height: "1008"
+    media_file_name: dinero-20.jpg
+    media_updated_at: 2010-06-02 09:16:01
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 21
+    created_at: 2010-06-02 09:16:02
+    media_file_size: "129266"
+    updated_at: 2010-06-02 09:16:03
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "21"
+    height: "1001"
+    media_file_name: dinero-21.jpg
+    media_updated_at: 2010-06-02 09:16:02
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 22
+    created_at: 2010-06-02 09:16:03
+    media_file_size: "153997"
+    updated_at: 2010-06-02 09:16:03
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "22"
+    height: "568"
+    media_file_name: dinero-22.jpg
+    media_updated_at: 2010-06-02 09:16:03
+    width: "567"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 23
+    created_at: 2010-06-02 09:16:03
+    media_file_size: "172198"
+    updated_at: 2010-06-02 09:16:04
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "23"
+    height: "822"
+    media_file_name: dinero-23.jpg
+    media_updated_at: 2010-06-02 09:16:03
+    width: "638"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 24
+    created_at: 2010-06-02 09:16:04
+    media_file_size: "151412"
+    updated_at: 2010-06-02 09:16:04
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "24"
+    height: "592"
+    media_file_name: dinero-24.jpg
+    media_updated_at: 2010-06-02 09:16:04
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 25
+    created_at: 2010-06-02 09:16:04
+    media_file_size: "191061"
+    updated_at: 2010-06-02 09:16:05
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "25"
+    height: "1008"
+    media_file_name: dinero-25.jpg
+    media_updated_at: 2010-06-02 09:16:04
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 26
+    created_at: 2010-06-02 09:16:05
+    media_file_size: "95372"
+    updated_at: 2010-06-02 09:16:06
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "26"
+    height: "1025"
+    media_file_name: dinero-26.jpg
+    media_updated_at: 2010-06-02 09:16:05
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 27
+    created_at: 2010-06-02 09:16:06
+    media_file_size: "125169"
+    updated_at: 2010-06-02 09:16:06
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "27"
+    height: "838"
+    media_file_name: dinero-27.jpg
+    media_updated_at: 2010-06-02 09:16:06
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 28
+    created_at: 2010-06-02 09:16:06
+    media_file_size: "129097"
+    updated_at: 2010-06-02 09:16:07
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "28"
+    height: "975"
+    media_file_name: dinero-28.jpg
+    media_updated_at: 2010-06-02 09:16:06
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 29
+    created_at: 2010-06-02 09:16:07
+    media_file_size: "60219"
+    updated_at: 2010-06-02 09:16:08
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "29"
+    height: "820"
+    media_file_name: dinero-29.jpg
+    media_updated_at: 2010-06-02 09:16:07
+    width: "567"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 30
+    created_at: 2010-06-02 09:16:08
+    media_file_size: "60907"
+    updated_at: 2010-06-02 09:16:08
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "30"
+    height: "806"
+    media_file_name: dinero-30.jpg
+    media_updated_at: 2010-06-02 09:16:08
+    width: "567"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 31
+    created_at: 2010-06-02 09:16:08
+    media_file_size: "94979"
+    updated_at: 2010-06-02 09:16:09
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "31"
+    height: "831"
+    media_file_name: dinero-31.jpg
+    media_updated_at: 2010-06-02 09:16:08
+    width: "567"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 32
+    created_at: 2010-06-02 09:16:09
+    media_file_size: "107702"
+    updated_at: 2010-06-02 09:16:09
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "32"
+    height: "806"
+    media_file_name: dinero-32.jpg
+    media_updated_at: 2010-06-02 09:16:09
+    width: "567"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 33
+    created_at: 2010-06-02 09:16:09
+    media_file_size: "109894"
+    updated_at: 2010-06-02 09:16:10
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "33"
+    height: "806"
+    media_file_name: dinero-33.jpg
+    media_updated_at: 2010-06-02 09:16:09
+    width: "567"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 34
+    created_at: 2010-06-02 09:16:10
+    media_file_size: "102029"
+    updated_at: 2010-06-02 09:16:11
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "34"
+    height: "820"
+    media_file_name: dinero-34.jpg
+    media_updated_at: 2010-06-02 09:16:10
+    width: "567"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 35
+    created_at: 2010-06-02 09:16:11
+    media_file_size: "81531"
+    updated_at: 2010-06-02 09:16:11
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "35"
+    height: "854"
+    media_file_name: dinero-35.jpg
+    media_updated_at: 2010-06-02 09:16:11
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 36
+    created_at: 2010-06-02 09:16:11
+    media_file_size: "161796"
+    updated_at: 2010-06-02 09:16:12
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "36"
+    height: "659"
+    media_file_name: dinero-36.jpg
+    media_updated_at: 2010-06-02 09:16:11
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 37
+    created_at: 2010-06-02 09:16:12
+    media_file_size: "71377"
+    updated_at: 2010-06-02 09:16:12
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "37"
+    height: "600"
+    media_file_name: dinero-37.jpg
+    media_updated_at: 2010-06-02 09:16:12
+    width: "709"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 38
+    created_at: 2010-06-02 09:16:12
+    media_file_size: "156383"
+    updated_at: 2010-06-02 09:16:13
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "38"
+    height: "840"
+    media_file_name: dinero-38.jpg
+    media_updated_at: 2010-06-02 09:16:12
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 39
+    created_at: 2010-06-02 09:16:13
+    media_file_size: "147951"
+    updated_at: 2010-06-02 09:16:14
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "39"
+    height: "854"
+    media_file_name: dinero-39.jpg
+    media_updated_at: 2010-06-02 09:16:13
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 40
+    created_at: 2010-06-02 09:16:14
+    media_file_size: "95369"
+    updated_at: 2010-06-02 09:16:14
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "40"
+    height: "840"
+    media_file_name: dinero-40.jpg
+    media_updated_at: 2010-06-02 09:16:14
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 41
+    created_at: 2010-06-02 09:16:14
+    media_file_size: "44289"
+    updated_at: 2010-06-02 09:16:14
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "41"
+    height: "769"
+    media_file_name: dinero-41.jpg
+    media_updated_at: 2010-06-02 09:16:14
+    width: "532"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 42
+    created_at: 2010-06-02 09:16:14
+    media_file_size: "135608"
+    updated_at: 2010-06-02 09:16:15
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "42"
+    height: "719"
+    media_file_name: dinero-42.jpg
+    media_updated_at: 2010-06-02 09:16:14
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 43
+    created_at: 2010-06-02 09:16:15
+    media_file_size: "132699"
+    updated_at: 2010-06-02 09:16:16
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "43"
+    height: "840"
+    media_file_name: dinero-43.jpg
+    media_updated_at: 2010-06-02 09:16:15
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: dinero 44
+    created_at: 2010-06-02 09:16:16
+    media_file_size: "187678"
+    updated_at: 2010-06-02 09:16:16
+    media_content_type: image/jpeg
+    group_id: "2"
+    id: "44"
+    height: "727"
+    media_file_name: dinero-44.jpg
+    media_updated_at: 2010-06-02 09:16:16
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: doplacie
+    created_at: 2010-06-02 09:17:01
+    media_file_size: "288726"
+    updated_at: 2010-06-02 09:17:02
+    media_content_type: image/jpeg
+    group_id: "1"
+    id: "111"
+    height: "726"
+    media_file_name: doplacie.jpg
+    media_updated_at: 2010-06-02 09:17:01
+    width: "1445"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo
+    created_at: 2010-06-02 09:17:02
+    media_file_size: "295391"
+    updated_at: 2010-06-02 09:17:04
+    media_content_type: image/jpeg
+    group_id: "1"
+    id: "112"
+    height: "973"
+    media_file_name: elotromundo.jpg
+    media_updated_at: 2010-06-02 09:17:02
+    width: "2093"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo01
+    created_at: 2010-06-02 09:16:20
+    media_file_size: "93580"
+    updated_at: 2010-06-02 09:16:20
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "50"
+    height: "701"
+    media_file_name: elotromundo01.jpg
+    media_updated_at: 2010-06-02 09:16:20
+    width: "851"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo02
+    created_at: 2010-06-02 09:16:20
+    media_file_size: "161937"
+    updated_at: 2010-06-02 09:16:21
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "51"
+    height: "703"
+    media_file_name: elotromundo02.jpg
+    media_updated_at: 2010-06-02 09:16:20
+    width: "851"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo03
+    created_at: 2010-06-02 09:16:21
+    media_file_size: "149813"
+    updated_at: 2010-06-02 09:16:22
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "52"
+    height: "703"
+    media_file_name: elotromundo03.jpg
+    media_updated_at: 2010-06-02 09:16:21
+    width: "940"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo04
+    created_at: 2010-06-02 09:16:22
+    media_file_size: "123544"
+    updated_at: 2010-06-02 09:16:22
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "53"
+    height: "619"
+    media_file_name: elotromundo04.jpg
+    media_updated_at: 2010-06-02 09:16:22
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo05
+    created_at: 2010-06-02 09:16:22
+    media_file_size: "132649"
+    updated_at: 2010-06-02 09:16:23
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "54"
+    height: "707"
+    media_file_name: elotromundo05.jpg
+    media_updated_at: 2010-06-02 09:16:22
+    width: "945"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo06
+    created_at: 2010-06-02 09:16:23
+    media_file_size: "206679"
+    updated_at: 2010-06-02 09:16:24
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "55"
+    height: "706"
+    media_file_name: elotromundo06.jpg
+    media_updated_at: 2010-06-02 09:16:23
+    width: "945"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo07
+    created_at: 2010-06-02 09:16:24
+    media_file_size: "135569"
+    updated_at: 2010-06-02 09:16:25
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "56"
+    height: "613"
+    media_file_name: elotromundo07.jpg
+    media_updated_at: 2010-06-02 09:16:24
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo08
+    created_at: 2010-06-02 09:16:25
+    media_file_size: "140322"
+    updated_at: 2010-06-02 09:16:25
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "57"
+    height: "617"
+    media_file_name: elotromundo08.jpg
+    media_updated_at: 2010-06-02 09:16:25
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo09
+    created_at: 2010-06-02 09:16:25
+    media_file_size: "142038"
+    updated_at: 2010-06-02 09:16:26
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "58"
+    height: "614"
+    media_file_name: elotromundo09.jpg
+    media_updated_at: 2010-06-02 09:16:25
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo10
+    created_at: 2010-06-02 09:16:26
+    media_file_size: "149103"
+    updated_at: 2010-06-02 09:16:26
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "59"
+    height: "710"
+    media_file_name: elotromundo10.jpg
+    media_updated_at: 2010-06-02 09:16:26
+    width: "945"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo11
+    created_at: 2010-06-02 09:16:26
+    media_file_size: "184838"
+    updated_at: 2010-06-02 09:16:27
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "60"
+    height: "706"
+    media_file_name: elotromundo11.jpg
+    media_updated_at: 2010-06-02 09:16:26
+    width: "945"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo12
+    created_at: 2010-06-02 09:16:27
+    media_file_size: "155776"
+    updated_at: 2010-06-02 09:16:28
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "61"
+    height: "637"
+    media_file_name: elotromundo12.jpg
+    media_updated_at: 2010-06-02 09:16:27
+    width: "851"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo13
+    created_at: 2010-06-02 09:16:28
+    media_file_size: "168388"
+    updated_at: 2010-06-02 09:16:28
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "62"
+    height: "634"
+    media_file_name: elotromundo13.jpg
+    media_updated_at: 2010-06-02 09:16:28
+    width: "851"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo14
+    created_at: 2010-06-02 09:16:28
+    media_file_size: "149139"
+    updated_at: 2010-06-02 09:16:29
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "63"
+    height: "637"
+    media_file_name: elotromundo14.jpg
+    media_updated_at: 2010-06-02 09:16:28
+    width: "851"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo15
+    created_at: 2010-06-02 09:16:29
+    media_file_size: "133389"
+    updated_at: 2010-06-02 09:16:30
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "64"
+    height: "700"
+    media_file_name: elotromundo15.jpg
+    media_updated_at: 2010-06-02 09:16:29
+    width: "945"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo16
+    created_at: 2010-06-02 09:16:30
+    media_file_size: "153382"
+    updated_at: 2010-06-02 09:16:30
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "65"
+    height: "671"
+    media_file_name: elotromundo16.jpg
+    media_updated_at: 2010-06-02 09:16:30
+    width: "851"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo17
+    created_at: 2010-06-02 09:16:30
+    media_file_size: "158515"
+    updated_at: 2010-06-02 09:16:31
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "66"
+    height: "636"
+    media_file_name: elotromundo17.jpg
+    media_updated_at: 2010-06-02 09:16:30
+    width: "803"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo18
+    created_at: 2010-06-02 09:16:31
+    media_file_size: "157242"
+    updated_at: 2010-06-02 09:16:32
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "67"
+    height: "636"
+    media_file_name: elotromundo18.jpg
+    media_updated_at: 2010-06-02 09:16:31
+    width: "803"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo19
+    created_at: 2010-06-02 09:16:32
+    media_file_size: "153044"
+    updated_at: 2010-06-02 09:16:33
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "68"
+    height: "670"
+    media_file_name: elotromundo19.jpg
+    media_updated_at: 2010-06-02 09:16:32
+    width: "851"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo20
+    created_at: 2010-06-02 09:16:33
+    media_file_size: "160016"
+    updated_at: 2010-06-02 09:16:33
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "69"
+    height: "672"
+    media_file_name: elotromundo20.jpg
+    media_updated_at: 2010-06-02 09:16:33
+    width: "851"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo21
+    created_at: 2010-06-02 09:16:33
+    media_file_size: "181549"
+    updated_at: 2010-06-02 09:16:34
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "70"
+    height: "665"
+    media_file_name: elotromundo21.jpg
+    media_updated_at: 2010-06-02 09:16:33
+    width: "851"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo22
+    created_at: 2010-06-02 09:16:34
+    media_file_size: "168496"
+    updated_at: 2010-06-02 09:16:35
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "71"
+    height: "671"
+    media_file_name: elotromundo22.jpg
+    media_updated_at: 2010-06-02 09:16:34
+    width: "851"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo23
+    created_at: 2010-06-02 09:16:35
+    media_file_size: "158401"
+    updated_at: 2010-06-02 09:16:35
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "72"
+    height: "708"
+    media_file_name: elotromundo23.jpg
+    media_updated_at: 2010-06-02 09:16:35
+    width: "945"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: elotromundo24
+    created_at: 2010-06-02 09:16:35
+    media_file_size: "54147"
+    updated_at: 2010-06-02 09:16:36
+    media_content_type: image/jpeg
+    group_id: "4"
+    id: "73"
+    height: "733"
+    media_file_name: elotromundo24.jpg
+    media_updated_at: 2010-06-02 09:16:35
+    width: "945"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: encargos
+    created_at: 2010-06-02 09:17:04
+    media_file_size: "292835"
+    updated_at: 2010-06-02 09:17:06
+    media_content_type: image/jpeg
+    group_id: "1"
+    id: "113"
+    height: "1252"
+    media_file_name: encargos.jpg
+    media_updated_at: 2010-06-02 09:17:04
+    width: "2282"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: enciclopedia
+    created_at: 2010-06-02 09:17:57
+    media_file_size: "272839"
+    updated_at: 2010-06-02 09:18:01
+    media_content_type: image/gif
+    group_id: "1"
+    id: "184"
+    height: "1006"
+    media_file_name: enciclopedia.gif
+    media_updated_at: 2010-06-02 09:17:57
+    width: "2225"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: enciclopedia01
+    created_at: 2010-06-02 09:16:52
+    media_file_size: "149702"
+    updated_at: 2010-06-02 09:16:53
+    media_content_type: image/jpeg
+    group_id: "6"
+    id: "104"
+    height: "655"
+    media_file_name: enciclopedia01.jpg
+    media_updated_at: 2010-06-02 09:16:52
+    width: "567"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: enciclopedia02
+    created_at: 2010-06-02 09:16:53
+    media_file_size: "113950"
+    updated_at: 2010-06-02 09:16:53
+    media_content_type: image/jpeg
+    group_id: "6"
+    id: "105"
+    height: "655"
+    media_file_name: enciclopedia02.jpg
+    media_updated_at: 2010-06-02 09:16:53
+    width: "567"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: enciclopedia03
+    created_at: 2010-06-02 09:16:53
+    media_file_size: "156850"
+    updated_at: 2010-06-02 09:16:54
+    media_content_type: image/jpeg
+    group_id: "6"
+    id: "106"
+    height: "520"
+    media_file_name: enciclopedia03.jpg
+    media_updated_at: 2010-06-02 09:16:53
+    width: "903"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas
+    created_at: 2010-06-02 09:17:06
+    media_file_size: "317131"
+    updated_at: 2010-06-02 09:17:08
+    media_content_type: image/jpeg
+    group_id: "1"
+    id: "114"
+    height: "1200"
+    media_file_name: historietas.jpg
+    media_updated_at: 2010-06-02 09:17:06
+    width: "1902"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas01
+    created_at: 2010-06-02 09:17:15
+    media_file_size: "146152"
+    updated_at: 2010-06-02 09:17:16
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "119"
+    height: "632"
+    media_file_name: historietas01.jpg
+    media_updated_at: 2010-06-02 09:17:15
+    width: "662"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas02
+    created_at: 2010-06-02 09:17:16
+    media_file_size: "115727"
+    updated_at: 2010-06-02 09:17:17
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "120"
+    height: "882"
+    media_file_name: historietas02.jpg
+    media_updated_at: 2010-06-02 09:17:16
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas03
+    created_at: 2010-06-02 09:17:17
+    media_file_size: "146366"
+    updated_at: 2010-06-02 09:17:17
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "121"
+    height: "880"
+    media_file_name: historietas03.jpg
+    media_updated_at: 2010-06-02 09:17:17
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas04
+    created_at: 2010-06-02 09:17:17
+    media_file_size: "143075"
+    updated_at: 2010-06-02 09:17:18
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "122"
+    height: "853"
+    media_file_name: historietas04.jpg
+    media_updated_at: 2010-06-02 09:17:17
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas05
+    created_at: 2010-06-02 09:17:18
+    media_file_size: "151603"
+    updated_at: 2010-06-02 09:17:18
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "123"
+    height: "869"
+    media_file_name: historietas05.jpg
+    media_updated_at: 2010-06-02 09:17:18
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas06
+    created_at: 2010-06-02 09:17:18
+    media_file_size: "148781"
+    updated_at: 2010-06-02 09:17:19
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "124"
+    height: "825"
+    media_file_name: historietas06.jpg
+    media_updated_at: 2010-06-02 09:17:18
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas07
+    created_at: 2010-06-02 09:17:19
+    media_file_size: "166410"
+    updated_at: 2010-06-02 09:17:19
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "125"
+    height: "821"
+    media_file_name: historietas07.jpg
+    media_updated_at: 2010-06-02 09:17:19
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas08
+    created_at: 2010-06-02 09:17:19
+    media_file_size: "145203"
+    updated_at: 2010-06-02 09:17:20
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "126"
+    height: "863"
+    media_file_name: historietas08.jpg
+    media_updated_at: 2010-06-02 09:17:19
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas09
+    created_at: 2010-06-02 09:17:20
+    media_file_size: "155081"
+    updated_at: 2010-06-02 09:17:21
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "127"
+    height: "853"
+    media_file_name: historietas09.jpg
+    media_updated_at: 2010-06-02 09:17:20
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas10
+    created_at: 2010-06-02 09:17:21
+    media_file_size: "73919"
+    updated_at: 2010-06-02 09:17:21
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "128"
+    height: "852"
+    media_file_name: historietas10.jpg
+    media_updated_at: 2010-06-02 09:17:21
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas11
+    created_at: 2010-06-02 09:17:21
+    media_file_size: "149081"
+    updated_at: 2010-06-02 09:17:22
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "129"
+    height: "780"
+    media_file_name: historietas11.jpg
+    media_updated_at: 2010-06-02 09:17:21
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas12
+    created_at: 2010-06-02 09:17:22
+    media_file_size: "157452"
+    updated_at: 2010-06-02 09:17:22
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "130"
+    height: "781"
+    media_file_name: historietas12.jpg
+    media_updated_at: 2010-06-02 09:17:22
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas13
+    created_at: 2010-06-02 09:17:22
+    media_file_size: "157538"
+    updated_at: 2010-06-02 09:17:23
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "131"
+    height: "775"
+    media_file_name: historietas13.jpg
+    media_updated_at: 2010-06-02 09:17:22
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas14
+    created_at: 2010-06-02 09:17:23
+    media_file_size: "148351"
+    updated_at: 2010-06-02 09:17:23
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "132"
+    height: "775"
+    media_file_name: historietas14.jpg
+    media_updated_at: 2010-06-02 09:17:23
+    width: "591"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas15
+    created_at: 2010-06-02 09:17:23
+    media_file_size: "175381"
+    updated_at: 2010-06-02 09:17:24
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "133"
+    height: "709"
+    media_file_name: historietas15.jpg
+    media_updated_at: 2010-06-02 09:17:23
+    width: "517"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas16
+    created_at: 2010-06-02 09:17:24
+    media_file_size: "202673"
+    updated_at: 2010-06-02 09:17:24
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "134"
+    height: "709"
+    media_file_name: historietas16.jpg
+    media_updated_at: 2010-06-02 09:17:24
+    width: "518"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas17
+    created_at: 2010-06-02 09:17:24
+    media_file_size: "177649"
+    updated_at: 2010-06-02 09:17:25
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "135"
+    height: "709"
+    media_file_name: historietas17.jpg
+    media_updated_at: 2010-06-02 09:17:24
+    width: "516"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: historietas18
+    created_at: 2010-06-02 09:17:25
+    media_file_size: "173922"
+    updated_at: 2010-06-02 09:17:26
+    media_content_type: image/jpeg
+    group_id: "7"
+    id: "136"
+    height: "709"
+    media_file_name: historietas18.jpg
+    media_updated_at: 2010-06-02 09:17:25
+    width: "510"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: lecrou
+    created_at: 2010-06-02 09:17:08
+    media_file_size: "3380824"
+    updated_at: 2010-06-02 09:17:11
+    media_content_type: image/jpeg
+    group_id: "1"
+    id: "115"
+    height: "1157"
+    media_file_name: lecrou.jpg
+    media_updated_at: 2010-06-02 09:17:08
+    width: "1772"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra01
+    created_at: 2010-06-02 09:17:42
+    media_file_size: "155540"
+    updated_at: 2010-06-02 09:17:42
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "163"
+    height: "532"
+    media_file_name: memoriasdelatierra01.jpg
+    media_updated_at: 2010-06-02 09:17:42
+    width: "867"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra02
+    created_at: 2010-06-02 09:17:42
+    media_file_size: "150409"
+    updated_at: 2010-06-02 09:17:43
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "164"
+    height: "501"
+    media_file_name: memoriasdelatierra02.jpg
+    media_updated_at: 2010-06-02 09:17:43
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra03
+    created_at: 2010-06-02 09:17:43
+    media_file_size: "141370"
+    updated_at: 2010-06-02 09:17:43
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "165"
+    height: "501"
+    media_file_name: memoriasdelatierra03.jpg
+    media_updated_at: 2010-06-02 09:17:43
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra04
+    created_at: 2010-06-02 09:17:43
+    media_file_size: "143247"
+    updated_at: 2010-06-02 09:17:44
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "166"
+    height: "501"
+    media_file_name: memoriasdelatierra04.jpg
+    media_updated_at: 2010-06-02 09:17:43
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra05
+    created_at: 2010-06-02 09:17:44
+    media_file_size: "159006"
+    updated_at: 2010-06-02 09:17:45
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "167"
+    height: "515"
+    media_file_name: memoriasdelatierra05.jpg
+    media_updated_at: 2010-06-02 09:17:44
+    width: "851"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra06
+    created_at: 2010-06-02 09:17:45
+    media_file_size: "146174"
+    updated_at: 2010-06-02 09:17:45
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "168"
+    height: "504"
+    media_file_name: memoriasdelatierra06.jpg
+    media_updated_at: 2010-06-02 09:17:45
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra07
+    created_at: 2010-06-02 09:17:45
+    media_file_size: "156171"
+    updated_at: 2010-06-02 09:17:46
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "169"
+    height: "509"
+    media_file_name: memoriasdelatierra07.jpg
+    media_updated_at: 2010-06-02 09:17:45
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra08
+    created_at: 2010-06-02 09:17:46
+    media_file_size: "137379"
+    updated_at: 2010-06-02 09:17:46
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "170"
+    height: "503"
+    media_file_name: memoriasdelatierra08.jpg
+    media_updated_at: 2010-06-02 09:17:46
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra09
+    created_at: 2010-06-02 09:17:46
+    media_file_size: "144724"
+    updated_at: 2010-06-02 09:17:47
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "171"
+    height: "501"
+    media_file_name: memoriasdelatierra09.jpg
+    media_updated_at: 2010-06-02 09:17:46
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra10
+    created_at: 2010-06-02 09:17:47
+    media_file_size: "160517"
+    updated_at: 2010-06-02 09:17:47
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "172"
+    height: "503"
+    media_file_name: memoriasdelatierra10.jpg
+    media_updated_at: 2010-06-02 09:17:47
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra11
+    created_at: 2010-06-02 09:17:48
+    media_file_size: "160517"
+    updated_at: 2010-06-02 09:17:49
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "173"
+    height: "503"
+    media_file_name: memoriasdelatierra11.jpg
+    media_updated_at: 2010-06-02 09:17:48
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra12
+    created_at: 2010-06-02 09:17:49
+    media_file_size: "197890"
+    updated_at: 2010-06-02 09:17:50
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "174"
+    height: "510"
+    media_file_name: memoriasdelatierra12.jpg
+    media_updated_at: 2010-06-02 09:17:49
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra13
+    created_at: 2010-06-02 09:17:50
+    media_file_size: "225490"
+    updated_at: 2010-06-02 09:17:51
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "175"
+    height: "515"
+    media_file_name: memoriasdelatierra13.jpg
+    media_updated_at: 2010-06-02 09:17:50
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra14
+    created_at: 2010-06-02 09:17:51
+    media_file_size: "196581"
+    updated_at: 2010-06-02 09:17:53
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "176"
+    height: "517"
+    media_file_name: memoriasdelatierra14.jpg
+    media_updated_at: 2010-06-02 09:17:51
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra15
+    created_at: 2010-06-02 09:17:53
+    media_file_size: "236603"
+    updated_at: 2010-06-02 09:17:54
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "177"
+    height: "514"
+    media_file_name: memoriasdelatierra15.jpg
+    media_updated_at: 2010-06-02 09:17:53
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra16
+    created_at: 2010-06-02 09:17:54
+    media_file_size: "221319"
+    updated_at: 2010-06-02 09:17:54
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "178"
+    height: "513"
+    media_file_name: memoriasdelatierra16.jpg
+    media_updated_at: 2010-06-02 09:17:54
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra17
+    created_at: 2010-06-02 09:17:54
+    media_file_size: "268377"
+    updated_at: 2010-06-02 09:17:55
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "179"
+    height: "502"
+    media_file_name: memoriasdelatierra17.jpg
+    media_updated_at: 2010-06-02 09:17:54
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra18
+    created_at: 2010-06-02 09:17:55
+    media_file_size: "224856"
+    updated_at: 2010-06-02 09:17:56
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "180"
+    height: "500"
+    media_file_name: memoriasdelatierra18.jpg
+    media_updated_at: 2010-06-02 09:17:55
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra19
+    created_at: 2010-06-02 09:17:56
+    media_file_size: "262258"
+    updated_at: 2010-06-02 09:17:56
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "181"
+    height: "510"
+    media_file_name: memoriasdelatierra19.jpg
+    media_updated_at: 2010-06-02 09:17:56
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra20
+    created_at: 2010-06-02 09:17:56
+    media_file_size: "267986"
+    updated_at: 2010-06-02 09:17:57
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "182"
+    height: "504"
+    media_file_name: memoriasdelatierra20.jpg
+    media_updated_at: 2010-06-02 09:17:56
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: memoriasdelatierra21
+    created_at: 2010-06-02 09:17:57
+    media_file_size: "157698"
+    updated_at: 2010-06-02 09:17:57
+    media_content_type: image/jpeg
+    group_id: "10"
+    id: "183"
+    height: "505"
+    media_file_name: memoriasdelatierra21.jpg
+    media_updated_at: 2010-06-02 09:17:57
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor
+    created_at: 2010-06-02 09:17:11
+    media_file_size: "407406"
+    updated_at: 2010-06-02 09:17:13
+    media_content_type: image/jpeg
+    group_id: "1"
+    id: "116"
+    height: "974"
+    media_file_name: muvirecor.jpg
+    media_updated_at: 2010-06-02 09:17:11
+    width: "1895"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor01
+    created_at: 2010-06-02 09:17:33
+    media_file_size: "91970"
+    updated_at: 2010-06-02 09:17:33
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "142"
+    height: "604"
+    media_file_name: muvirecor01.jpg
+    media_updated_at: 2010-06-02 09:17:33
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor02
+    created_at: 2010-06-02 09:17:33
+    media_file_size: "144497"
+    updated_at: 2010-06-02 09:17:34
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "143"
+    height: "298"
+    media_file_name: muvirecor02.jpg
+    media_updated_at: 2010-06-02 09:17:33
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor03
+    created_at: 2010-06-02 09:17:34
+    media_file_size: "142874"
+    updated_at: 2010-06-02 09:17:34
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "144"
+    height: "291"
+    media_file_name: muvirecor03.jpg
+    media_updated_at: 2010-06-02 09:17:34
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor04
+    created_at: 2010-06-02 09:17:34
+    media_file_size: "148024"
+    updated_at: 2010-06-02 09:17:35
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "145"
+    height: "301"
+    media_file_name: muvirecor04.jpg
+    media_updated_at: 2010-06-02 09:17:34
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor05
+    created_at: 2010-06-02 09:17:35
+    media_file_size: "141444"
+    updated_at: 2010-06-02 09:17:35
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "146"
+    height: "289"
+    media_file_name: muvirecor05.jpg
+    media_updated_at: 2010-06-02 09:17:35
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor06
+    created_at: 2010-06-02 09:17:35
+    media_file_size: "144547"
+    updated_at: 2010-06-02 09:17:35
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "147"
+    height: "282"
+    media_file_name: muvirecor06.jpg
+    media_updated_at: 2010-06-02 09:17:35
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor07
+    created_at: 2010-06-02 09:17:35
+    media_file_size: "139449"
+    updated_at: 2010-06-02 09:17:36
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "148"
+    height: "296"
+    media_file_name: muvirecor07.jpg
+    media_updated_at: 2010-06-02 09:17:35
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor08
+    created_at: 2010-06-02 09:17:36
+    media_file_size: "144585"
+    updated_at: 2010-06-02 09:17:36
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "149"
+    height: "282"
+    media_file_name: muvirecor08.jpg
+    media_updated_at: 2010-06-02 09:17:36
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor09
+    created_at: 2010-06-02 09:17:36
+    media_file_size: "146339"
+    updated_at: 2010-06-02 09:17:37
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "150"
+    height: "298"
+    media_file_name: muvirecor09.jpg
+    media_updated_at: 2010-06-02 09:17:36
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor10
+    created_at: 2010-06-02 09:17:37
+    media_file_size: "146954"
+    updated_at: 2010-06-02 09:17:37
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "151"
+    height: "285"
+    media_file_name: muvirecor10.jpg
+    media_updated_at: 2010-06-02 09:17:37
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor11
+    created_at: 2010-06-02 09:17:37
+    media_file_size: "147804"
+    updated_at: 2010-06-02 09:17:38
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "152"
+    height: "314"
+    media_file_name: muvirecor11.jpg
+    media_updated_at: 2010-06-02 09:17:37
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor12
+    created_at: 2010-06-02 09:17:38
+    media_file_size: "147157"
+    updated_at: 2010-06-02 09:17:38
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "153"
+    height: "297"
+    media_file_name: muvirecor12.jpg
+    media_updated_at: 2010-06-02 09:17:38
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor13
+    created_at: 2010-06-02 09:17:38
+    media_file_size: "132797"
+    updated_at: 2010-06-02 09:17:38
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "154"
+    height: "286"
+    media_file_name: muvirecor13.jpg
+    media_updated_at: 2010-06-02 09:17:38
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor14
+    created_at: 2010-06-02 09:17:38
+    media_file_size: "146924"
+    updated_at: 2010-06-02 09:17:39
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "155"
+    height: "300"
+    media_file_name: muvirecor14.jpg
+    media_updated_at: 2010-06-02 09:17:38
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor15
+    created_at: 2010-06-02 09:17:39
+    media_file_size: "145231"
+    updated_at: 2010-06-02 09:17:39
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "156"
+    height: "285"
+    media_file_name: muvirecor15.jpg
+    media_updated_at: 2010-06-02 09:17:39
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor16
+    created_at: 2010-06-02 09:17:39
+    media_file_size: "146712"
+    updated_at: 2010-06-02 09:17:40
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "157"
+    height: "296"
+    media_file_name: muvirecor16.jpg
+    media_updated_at: 2010-06-02 09:17:39
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor17
+    created_at: 2010-06-02 09:17:40
+    media_file_size: "146122"
+    updated_at: 2010-06-02 09:17:40
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "158"
+    height: "284"
+    media_file_name: muvirecor17.jpg
+    media_updated_at: 2010-06-02 09:17:40
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor18
+    created_at: 2010-06-02 09:17:40
+    media_file_size: "147696"
+    updated_at: 2010-06-02 09:17:41
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "159"
+    height: "299"
+    media_file_name: muvirecor18.jpg
+    media_updated_at: 2010-06-02 09:17:40
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor19
+    created_at: 2010-06-02 09:17:41
+    media_file_size: "147320"
+    updated_at: 2010-06-02 09:17:41
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "160"
+    height: "286"
+    media_file_name: muvirecor19.jpg
+    media_updated_at: 2010-06-02 09:17:41
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor20
+    created_at: 2010-06-02 09:17:41
+    media_file_size: "143137"
+    updated_at: 2010-06-02 09:17:41
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "161"
+    height: "286"
+    media_file_name: muvirecor20.jpg
+    media_updated_at: 2010-06-02 09:17:41
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: muvirecor21
+    created_at: 2010-06-02 09:17:41
+    media_file_size: "145262"
+    updated_at: 2010-06-02 09:17:42
+    media_content_type: image/jpeg
+    group_id: "9"
+    id: "162"
+    height: "296"
+    media_file_name: muvirecor21.jpg
+    media_updated_at: 2010-06-02 09:17:42
+    width: "827"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: neuronas
+    created_at: 2010-06-02 09:16:56
+    media_file_size: "317131"
+    updated_at: 2010-06-02 09:16:58
+    media_content_type: image/jpeg
+    group_id: "1"
+    id: "108"
+    height: "1200"
+    media_file_name: neuronas.jpg
+    media_updated_at: 2010-06-02 09:16:56
+    width: "1902"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: neuronas2
+    created_at: 2010-06-02 09:17:13
+    media_file_size: "294448"
+    updated_at: 2010-06-02 09:17:14
+    media_content_type: image/jpeg
+    group_id: "1"
+    id: "117"
+    height: "1156"
+    media_file_name: neuronas2.jpg
+    media_updated_at: 2010-06-02 09:17:13
+    width: "1534"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: prodan 01
+    created_at: 2010-06-02 09:17:26
+    media_file_size: "643249"
+    updated_at: 2010-06-02 09:17:27
+    media_content_type: image/jpeg
+    group_id: "8"
+    id: "137"
+    height: "1012"
+    media_file_name: prodan_01.jpg
+    media_updated_at: 2010-06-02 09:17:26
+    width: "1417"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: prodan 02
+    created_at: 2010-06-02 09:17:27
+    media_file_size: "839857"
+    updated_at: 2010-06-02 09:17:28
+    media_content_type: image/jpeg
+    group_id: "8"
+    id: "138"
+    height: "1012"
+    media_file_name: prodan_02.jpg
+    media_updated_at: 2010-06-02 09:17:27
+    width: "1417"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: prodan 03
+    created_at: 2010-06-02 09:17:28
+    media_file_size: "901143"
+    updated_at: 2010-06-02 09:17:30
+    media_content_type: image/jpeg
+    group_id: "8"
+    id: "139"
+    height: "1012"
+    media_file_name: prodan_03.jpg
+    media_updated_at: 2010-06-02 09:17:28
+    width: "1417"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: prodan 04
+    created_at: 2010-06-02 09:17:30
+    media_file_size: "755699"
+    updated_at: 2010-06-02 09:17:31
+    media_content_type: image/jpeg
+    group_id: "8"
+    id: "140"
+    height: "1012"
+    media_file_name: prodan_04.jpg
+    media_updated_at: 2010-06-02 09:17:30
+    width: "1417"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: prodan 05
+    created_at: 2010-06-02 09:17:31
+    media_file_size: "509032"
+    updated_at: 2010-06-02 09:17:33
+    media_content_type: image/jpeg
+    group_id: "8"
+    id: "141"
+    height: "1012"
+    media_file_name: prodan_05.jpg
+    media_updated_at: 2010-06-02 09:17:31
+    width: "1417"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: sedentarismo
+    created_at: 2010-06-02 09:16:17
+    media_file_size: "82716"
+    updated_at: 2010-06-02 09:16:17
+    media_content_type: image/jpeg
+    group_id: "3"
+    id: "46"
+    height: "693"
+    media_file_name: sedentarismo.jpg
+    media_updated_at: 2010-06-02 09:16:17
+    width: "706"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: tierra
+    created_at: 2010-06-02 09:17:14
+    media_file_size: "48710"
+    updated_at: 2010-06-02 09:17:15
+    media_content_type: image/jpeg
+    group_id: "1"
+    id: "118"
+    height: "848"
+    media_file_name: tierra.jpg
+    media_updated_at: 2010-06-02 09:17:14
+    width: "1842"
+  attributes_cache: {}
+
+- !ruby/object:Clip 
+  attributes: 
+    name: vacio
+    created_at: 2010-06-02 09:16:58
+    media_file_size: "44617"
+    updated_at: 2010-06-02 09:16:59
+    media_content_type: image/jpeg
+    group_id: "1"
+    id: "109"
+    height: "1090"
+    media_file_name: vacio.jpg
+    media_updated_at: 2010-06-02 09:16:58
+    width: "2263"
+  attributes_cache: {}
+

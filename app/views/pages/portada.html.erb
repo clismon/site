@@ -1,0 +1,97 @@
+
+<% title('Industrias') %>
+
+
+<% content_for :head do %>
+  <style type="text/css">
+    html, body {margin:0; padding:0; width:100%; height:100%; overflow: hidden; background-color: #B9CDD8;}
+    .layer {position:absolute; height:100%; right: -100px;}
+    #background {z-index:1;}
+    #playground {width: 200px; z-index: 1000;
+    }
+
+    a.area {display: block; position: absolute; text-indent: -1000px; overflow: hidden; border: 1px solid transparent;
+            background-color: transparent; background-image:url(/images/transparent.gif);
+    }
+
+    .red {
+      border: 1px solid red; opacity: 0.3;
+    }
+    img, div { behavior: url(iepngfix.htc) }
+  </style>
+
+  <script type="text/javascript">
+    (function() {
+      var bgHeight = 1296;
+      var bgWidth = 2850;
+
+      var layers = ['clismon', 'lecrou', 'doplacie',
+        'historietas', 'las-buenas-noches', 'bueh', 'dinero', 'el-otro-mundo',
+        'enciclopedia-universal-clismon', 'memorias-de-la-tierra', 'delirios-por-encargo',
+        'muvirecor', 'portada-activa'];
+
+      
+      $(function() {
+        if ($("#obsolete").size() > 0) {
+          $.autosize.config.active = false;
+          return;
+        }
+
+        var ratio = 0;
+        var self = $(window);
+
+        $(window).resize(function() {
+          ratio = bgHeight / self.height();
+          $("#playground").width(parseInt(bgWidth / ratio));
+        });
+
+        $(window).trigger('resize');
+
+        $(window).load(function() {
+          $.each(layers, function() {
+            var layer = $("<img id='" + this + "' />");
+            layer.attr('src', '<%= Clismon.images %>/portada/' + this + '.png');
+            layer.attr('class', 'layer label');
+            layer.attr('style', 'z-index: 50; display: none;');
+            $("#wrap").append(layer);
+          });
+          $("#clismon").show();
+        });
+
+        $('.link').hover(function() {
+          var id = '#' + $(this).attr('id').substring(3);
+          $(id).show();
+        }, function() {
+          var id = '#' + $(this).attr('id').substring(3);
+          $(id).hide();
+        });
+
+        $('#go-portada-activa').hover(function() {
+          $("#clismon").hide();
+        }, function() {
+          $("#clismon").show();
+        });
+      });
+    })(jQuery);
+  </script>
+
+<% end -%>
+
+<div id="wrap">
+  <img id="background" src="<%= Clismon.images %>/portada/portada.jpg" alt="background" class="layer" />
+</div>
+<div id="playground" class="layer">
+  <a id="go-lecrou" href="/lecrou" class="area link" style="z-index: 301; left: 38.1%; top: 69.59%; width: 3.08%; height: 7.4%; ">enlaces</a>
+  <a id="go-doplacie" href="/doplacie" class="area link" style="z-index: 301; left: 36.91%; top: 49.84%; width: 5.82%; height: 18.2%; ">doplacie</a>
+  <a id="go-historietas" href="/historietas" class="area link" style="z-index: 301; left: 32.21%; top: 46.91%; width: 3.57%; height: 8.02%; ">historietas</a>
+  <a id="go-las-buenas-noches" href="http://lasbuenasnoches.com" class="area link" style="z-index: 301; left: 38.38%; top: 27.93%; width: 4.91%; height: 11.26%; ">las buenas noches</a>
+  <a id="go-bueh" class="area link" href="http://blog.clismon.net" style="z-index: 301; left: 39.08%; top: 7.4%; width: 5.75%; height: 13.11%; ">bueh</a>
+  <a id="go-dinero" class="area link" href="/dinero" style="z-index: 301; left: 52.98%; top: 1.85%; width: 6.03%; height: 15.74%; ">dinero</a>
+  <a id="go-el-otro-mundo" class="area link" href="/elotromundo" style="z-index: 301; left: 57.05%; top: 17.9%; width: 6.03%; height: 10.18%; ">el otro mundo</a>
+  <a id="go-enciclopedia-universal-clismon" href="/enciclopedia" class="area link" style="z-index: 301; left: 65.05%; top: 27%; width: 2.24%; height: 5.7%; ">encliclopedia universal clismon</a>
+  <a id="go-memorias-de-la-tierra" class="area link" href="/tierra" style="z-index: 301; left: 59.92%; top: 32.56%; width: 7.43%; height: 14.04%; ">memorias de la tierra</a>
+  <a id="go-delirios-por-encargo" class="area link" href="/encargos" style="z-index: 301; left: 60.91%; top: 46.91%; width: 6.38%; height: 17.74%; ">delirios por encargo</a>
+  <a id="go-muvirecor" class="area link" href="/muvirecor" style="z-index: 301; left: 62.31%; top: 64.81%; width: 2.73%; height: 6.32%; ">muvirecor</a>
+  <a id="go-portada-activa" class="area link" href="#" style="z-index: 3001; left: 71%; top: 65%; width: 16%; height: 31%; ">clismon</a>
+</div>
+
