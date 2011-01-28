@@ -5,7 +5,7 @@ class CreateClips < ActiveRecord::Migration
       t.references :group, :required => true
       t.integer :width, :default => 0
       t.integer :height, :default => 0
-      t.string :url, :required => true, :limit => 600
+      t.string :locator, :required => true, :limit => 200
       t.timestamps
     end
 

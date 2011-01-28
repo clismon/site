@@ -2,7 +2,7 @@ Clismon::Application.routes.draw do
   root :to => "pages#portada"
   
   Clismon.groups.each do |group|
-    match group => "pages##{group}", :as => group
+    match group => "pages#section", :id => group, :as => group
   end
   
   match 'admin' => 'admin/groups#index', :as => 'admin'
@@ -11,6 +11,7 @@ Clismon::Application.routes.draw do
       resources :clips
     end
   end
+  match 'trabajando' => 'pages#trabajando'
   
   # The priority is based upon order of creation:
   # first created -> highest priority.

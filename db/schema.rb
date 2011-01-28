@@ -17,7 +17,7 @@ ActiveRecord::Schema.define(:version => 20110128141115) do
     t.integer  "group_id"
     t.integer  "width",                     :default => 0
     t.integer  "height",                    :default => 0
-    t.string   "url",        :limit => 600
+    t.string   "locator",    :limit => 200
     t.datetime "created_at"
     t.datetime "updated_at"
   end
@@ -25,11 +25,12 @@ ActiveRecord::Schema.define(:version => 20110128141115) do
   add_index "clips", ["name"], :name => "index_clips_on_name"
 
   create_table "groups", :force => true do |t|
-    t.string   "name"
-    t.string   "title"
-    t.string   "color",         :default => "#000"
-    t.boolean  "section",       :default => true
-    t.integer  "background_id"
+    t.string   "name",       :limit => 200
+    t.string   "title",      :limit => 200
+    t.string   "color",                     :default => "#000"
+    t.integer  "bg_width"
+    t.integer  "bg_height"
+    t.string   "bg_locator", :limit => 500
     t.datetime "created_at"
     t.datetime "updated_at"
   end

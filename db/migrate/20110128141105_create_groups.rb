@@ -1,11 +1,12 @@
 class CreateGroups < ActiveRecord::Migration
   def self.up
     create_table :groups do |t|
-      t.string :name, :required => true
-      t.string :title, :required => true
+      t.string :name, :required => true, :limit => 200
+      t.string :title, :required => true, :limit => 200
       t.string :color, :required => true, :default => '#000'
-      t.boolean :section, :default => true
-      t.references :background
+      t.integer :bg_width
+      t.integer :bg_height
+      t.string :bg_locator, :limit => 500
       t.timestamps
     end
 

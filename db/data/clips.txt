@@ -1,0 +1,184 @@
+a serena contemplacion|doplacie|690.0|517.0|a-serena-contemplacion.jpg
+comodin|fondos|2093.0|974.0|comodin.jpg
+contenido 01|doplacie|945.0|686.0|contenido-01.jpg
+contenido 02|doplacie|945.0|686.0|contenido-02.jpg
+contenido 03|doplacie|945.0|675.0|contenido-03.jpg
+delirios01|encargos|551.0|718.0|delirios01.jpg
+delirios02|encargos|945.0|571.0|delirios02.jpg
+delirios03|encargos|492.0|662.0|delirios03.jpg
+delirios04|encargos|591.0|696.0|delirios04.jpg
+delirios05|encargos|473.0|639.0|delirios05.jpg
+delirios06|encargos|532.0|670.0|delirios06.jpg
+delirios07|encargos|532.0|616.0|delirios07.jpg
+delirios08|encargos|591.0|631.0|delirios08.jpg
+delirios09|encargos|472.0|677.0|delirios09.jpg
+delirios10|encargos|496.0|626.0|delirios10.jpg
+delirios11|encargos|937.0|591.0|delirios11.jpg
+delirios12|encargos|473.0|647.0|delirios12.jpg
+delirios13|encargos|1002.0|709.0|delirios13.jpg
+delirios14|encargos|473.0|669.0|delirios14.jpg
+delirios15|encargos|785.0|394.0|delirios15.jpg
+delirios16|encargos|492.0|689.0|delirios16.jpg
+delirios17|encargos|937.0|330.0|delirios17.jpg
+delirios18|encargos|793.0|709.0|delirios18.jpg
+delirios19|encargos|714.0|709.0|delirios19.jpg
+delirios20|encargos|443.0|650.0|delirios20.jpg
+delirios21|encargos|591.0|589.0|delirios21.jpg
+delirios22|encargos|591.0|591.0|delirios22.jpg
+delirios23|encargos|591.0|591.0|delirios23.jpg
+delirios24|encargos|953.0|425.0|delirios24.jpg
+delirios25|encargos|591.0|665.0|delirios25.jpg
+delirios26|encargos|591.0|661.0|delirios26.jpg
+delirios27|encargos|726.0|638.0|delirios27.jpg
+delirios28|encargos|463.0|662.0|delirios28.jpg
+delirios29|encargos|793.0|567.0|delirios29.jpg
+delirios30|encargos|532.0|538.0|delirios30.jpg
+dinero|fondos|2263.0|1090.0|dinero.jpg
+dinero 01|dinero|709.0|980.0|dinero-01.jpg
+dinero 02|dinero|709.0|1008.0|dinero-02.jpg
+dinero 03|dinero|709.0|1008.0|dinero-03.jpg
+dinero 04|dinero|709.0|1025.0|dinero-04.jpg
+dinero 05|dinero|803.0|567.0|dinero-05.jpg
+dinero 06|dinero|591.0|866.0|dinero-06.jpg
+dinero 07|dinero|709.0|819.0|dinero-07.jpg
+dinero 08|dinero|827.0|690.0|dinero-08.jpg
+dinero 09|dinero|1012.0|709.0|dinero-09.jpg
+dinero 10|dinero|709.0|1039.0|dinero-10.jpg
+dinero 11|dinero|709.0|1039.0|dinero-11.jpg
+dinero 12|dinero|999.0|709.0|dinero-12.jpg
+dinero 13|dinero|999.0|709.0|dinero-13.jpg
+dinero 14|dinero|709.0|709.0|dinero-14.jpg
+dinero 15|dinero|709.0|1008.0|dinero-15.jpg
+dinero 16|dinero|709.0|938.0|dinero-16.jpg
+dinero 17|dinero|827.0|764.0|dinero-17.jpg
+dinero 18|dinero|591.0|811.0|dinero-18.jpg
+dinero 19|dinero|709.0|1008.0|dinero-19.jpg
+dinero 20|dinero|709.0|1008.0|dinero-20.jpg
+dinero 21|dinero|709.0|1001.0|dinero-21.jpg
+dinero 22|dinero|567.0|568.0|dinero-22.jpg
+dinero 23|dinero|638.0|822.0|dinero-23.jpg
+dinero 24|dinero|591.0|592.0|dinero-24.jpg
+dinero 25|dinero|709.0|1008.0|dinero-25.jpg
+dinero 26|dinero|709.0|1025.0|dinero-26.jpg
+dinero 27|dinero|709.0|838.0|dinero-27.jpg
+dinero 28|dinero|709.0|975.0|dinero-28.jpg
+dinero 29|dinero|567.0|820.0|dinero-29.jpg
+dinero 30|dinero|567.0|806.0|dinero-30.jpg
+dinero 31|dinero|567.0|831.0|dinero-31.jpg
+dinero 32|dinero|567.0|806.0|dinero-32.jpg
+dinero 33|dinero|567.0|806.0|dinero-33.jpg
+dinero 34|dinero|567.0|820.0|dinero-34.jpg
+dinero 35|dinero|591.0|854.0|dinero-35.jpg
+dinero 36|dinero|709.0|659.0|dinero-36.jpg
+dinero 37|dinero|709.0|600.0|dinero-37.jpg
+dinero 38|dinero|591.0|840.0|dinero-38.jpg
+dinero 39|dinero|591.0|854.0|dinero-39.jpg
+dinero 40|dinero|591.0|840.0|dinero-40.jpg
+dinero 41|dinero|532.0|769.0|dinero-41.jpg
+dinero 42|dinero|591.0|719.0|dinero-42.jpg
+dinero 43|dinero|591.0|840.0|dinero-43.jpg
+dinero 44|dinero|827.0|727.0|dinero-44.jpg
+doplacie|fondos|1445.0|726.0|doplacie.jpg
+elotromundo|fondos|2093.0|973.0|elotromundo.jpg
+elotromundo01|elotromundo|851.0|701.0|elotromundo01.jpg
+elotromundo02|elotromundo|851.0|703.0|elotromundo02.jpg
+elotromundo03|elotromundo|940.0|703.0|elotromundo03.jpg
+elotromundo04|elotromundo|827.0|619.0|elotromundo04.jpg
+elotromundo05|elotromundo|945.0|707.0|elotromundo05.jpg
+elotromundo06|elotromundo|945.0|706.0|elotromundo06.jpg
+elotromundo07|elotromundo|827.0|613.0|elotromundo07.jpg
+elotromundo08|elotromundo|827.0|617.0|elotromundo08.jpg
+elotromundo09|elotromundo|827.0|614.0|elotromundo09.jpg
+elotromundo10|elotromundo|945.0|710.0|elotromundo10.jpg
+elotromundo11|elotromundo|945.0|706.0|elotromundo11.jpg
+elotromundo12|elotromundo|851.0|637.0|elotromundo12.jpg
+elotromundo13|elotromundo|851.0|634.0|elotromundo13.jpg
+elotromundo14|elotromundo|851.0|637.0|elotromundo14.jpg
+elotromundo15|elotromundo|945.0|700.0|elotromundo15.jpg
+elotromundo16|elotromundo|851.0|671.0|elotromundo16.jpg
+elotromundo17|elotromundo|803.0|636.0|elotromundo17.jpg
+elotromundo18|elotromundo|803.0|636.0|elotromundo18.jpg
+elotromundo19|elotromundo|851.0|670.0|elotromundo19.jpg
+elotromundo20|elotromundo|851.0|672.0|elotromundo20.jpg
+elotromundo21|elotromundo|851.0|665.0|elotromundo21.jpg
+elotromundo22|elotromundo|851.0|671.0|elotromundo22.jpg
+elotromundo23|elotromundo|945.0|708.0|elotromundo23.jpg
+elotromundo24|elotromundo|945.0|733.0|elotromundo24.jpg
+encargos|fondos|2282.0|1252.0|encargos.jpg
+enciclopedia|fondos|2225.0|1006.0|enciclopedia.gif
+enciclopedia01|enciclopedia|567.0|655.0|enciclopedia01.jpg
+enciclopedia02|enciclopedia|567.0|655.0|enciclopedia02.jpg
+enciclopedia03|enciclopedia|903.0|520.0|enciclopedia03.jpg
+historietas|fondos|1902.0|1200.0|historietas.jpg
+historietas01|historietas|662.0|632.0|historietas01.jpg
+historietas02|historietas|591.0|882.0|historietas02.jpg
+historietas03|historietas|591.0|880.0|historietas03.jpg
+historietas04|historietas|591.0|853.0|historietas04.jpg
+historietas05|historietas|591.0|869.0|historietas05.jpg
+historietas06|historietas|591.0|825.0|historietas06.jpg
+historietas07|historietas|591.0|821.0|historietas07.jpg
+historietas08|historietas|591.0|863.0|historietas08.jpg
+historietas09|historietas|591.0|853.0|historietas09.jpg
+historietas10|historietas|591.0|852.0|historietas10.jpg
+historietas11|historietas|591.0|780.0|historietas11.jpg
+historietas12|historietas|591.0|781.0|historietas12.jpg
+historietas13|historietas|591.0|775.0|historietas13.jpg
+historietas14|historietas|591.0|775.0|historietas14.jpg
+historietas15|historietas|517.0|709.0|historietas15.jpg
+historietas16|historietas|518.0|709.0|historietas16.jpg
+historietas17|historietas|516.0|709.0|historietas17.jpg
+historietas18|historietas|510.0|709.0|historietas18.jpg
+lecrou|fondos|1772.0|1157.0|lecrou.jpg
+memoriasdelatierra01|tierra|867.0|532.0|memoriasdelatierra01.jpg
+memoriasdelatierra02|tierra|827.0|501.0|memoriasdelatierra02.jpg
+memoriasdelatierra03|tierra|827.0|501.0|memoriasdelatierra03.jpg
+memoriasdelatierra04|tierra|827.0|501.0|memoriasdelatierra04.jpg
+memoriasdelatierra05|tierra|851.0|515.0|memoriasdelatierra05.jpg
+memoriasdelatierra06|tierra|827.0|504.0|memoriasdelatierra06.jpg
+memoriasdelatierra07|tierra|827.0|509.0|memoriasdelatierra07.jpg
+memoriasdelatierra08|tierra|827.0|503.0|memoriasdelatierra08.jpg
+memoriasdelatierra09|tierra|827.0|501.0|memoriasdelatierra09.jpg
+memoriasdelatierra10|tierra|827.0|503.0|memoriasdelatierra10.jpg
+memoriasdelatierra11|tierra|827.0|503.0|memoriasdelatierra11.jpg
+memoriasdelatierra12|tierra|827.0|510.0|memoriasdelatierra12.jpg
+memoriasdelatierra13|tierra|827.0|515.0|memoriasdelatierra13.jpg
+memoriasdelatierra14|tierra|827.0|517.0|memoriasdelatierra14.jpg
+memoriasdelatierra15|tierra|827.0|514.0|memoriasdelatierra15.jpg
+memoriasdelatierra16|tierra|827.0|513.0|memoriasdelatierra16.jpg
+memoriasdelatierra17|tierra|827.0|502.0|memoriasdelatierra17.jpg
+memoriasdelatierra18|tierra|827.0|500.0|memoriasdelatierra18.jpg
+memoriasdelatierra19|tierra|827.0|510.0|memoriasdelatierra19.jpg
+memoriasdelatierra20|tierra|827.0|504.0|memoriasdelatierra20.jpg
+memoriasdelatierra21|tierra|827.0|505.0|memoriasdelatierra21.jpg
+muvirecor|fondos|1895.0|974.0|muvirecor.jpg
+muvirecor01|muvirecor|827.0|604.0|muvirecor01.jpg
+muvirecor02|muvirecor|827.0|298.0|muvirecor02.jpg
+muvirecor03|muvirecor|827.0|291.0|muvirecor03.jpg
+muvirecor04|muvirecor|827.0|301.0|muvirecor04.jpg
+muvirecor05|muvirecor|827.0|289.0|muvirecor05.jpg
+muvirecor06|muvirecor|827.0|282.0|muvirecor06.jpg
+muvirecor07|muvirecor|827.0|296.0|muvirecor07.jpg
+muvirecor08|muvirecor|827.0|282.0|muvirecor08.jpg
+muvirecor09|muvirecor|827.0|298.0|muvirecor09.jpg
+muvirecor10|muvirecor|827.0|285.0|muvirecor10.jpg
+muvirecor11|muvirecor|827.0|314.0|muvirecor11.jpg
+muvirecor12|muvirecor|827.0|297.0|muvirecor12.jpg
+muvirecor13|muvirecor|827.0|286.0|muvirecor13.jpg
+muvirecor14|muvirecor|827.0|300.0|muvirecor14.jpg
+muvirecor15|muvirecor|827.0|285.0|muvirecor15.jpg
+muvirecor16|muvirecor|827.0|296.0|muvirecor16.jpg
+muvirecor17|muvirecor|827.0|284.0|muvirecor17.jpg
+muvirecor18|muvirecor|827.0|299.0|muvirecor18.jpg
+muvirecor19|muvirecor|827.0|286.0|muvirecor19.jpg
+muvirecor20|muvirecor|827.0|286.0|muvirecor20.jpg
+muvirecor21|muvirecor|827.0|296.0|muvirecor21.jpg
+neuronas|fondos|1902.0|1200.0|neuronas.jpg
+neuronas2|fondos|1534.0|1156.0|neuronas2.jpg
+prodan 01|lecrou|1417.0|1012.0|prodan_01.jpg
+prodan 02|lecrou|1417.0|1012.0|prodan_02.jpg
+prodan 03|lecrou|1417.0|1012.0|prodan_03.jpg
+prodan 04|lecrou|1417.0|1012.0|prodan_04.jpg
+prodan 05|lecrou|1417.0|1012.0|prodan_05.jpg
+sedentarismo|doplacie|706.0|693.0|sedentarismo.jpg
+tierra|fondos|1842.0|848.0|tierra.jpg
+vacio|fondos|2263.0|1090.0|vacio.jpg

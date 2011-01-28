@@ -5,7 +5,6 @@
     <thead>
       <tr>
         <td style="width: 10em;">Fondo</td>
-        <td>¿Es una sección?</td>
         <td>Título</td>
         <td>Nombre (y dirección)</td><td/>
       </tr>
@@ -13,14 +12,15 @@
     <tbody>
       <% @groups.each do |group|  %>
         <tr class="<%= cycle('even', 'odd') %>">
-          <td><%= image_tag group.background.media.url(:thumb) if group.background %></td>
-          <td><%= group.section? ? 'Sí' : 'No' %></td>
-          <td><%= link_to group.title, group %></td>
-          <td><%= link_to("/#{group.name}", "/#{group.name}") if group.section? %></td>
+          <td><%= link_to 'Ver', group.bg_url %>
+            (<%= group.bg_width %>x<%= group.bg_height%> px)
+          </td>
+          <td><%= link_to group.title, [:admin, group] %></td>
+          <td><%= link_to("/#{group.name}", "/#{group.name}")  %></td>
           <td class="actions">
-            <%= link_to 'Ver imágenes', group_path(group) %>
-            <%= link_to 'Editar', edit_group_path(group) %>
-            <%= link_to 'Ver en la web', "/#{group.name}" if group.section? %>
+            <%= link_to 'Ver imágenes', admin_group_path(group) %>
+            <%#= link_to 'Editar', edit_admin_group_path(group) %>
+            <%= link_to 'Ver en la web', "/#{group.name}" %>
           </td>
         </tr>
       <% end %>

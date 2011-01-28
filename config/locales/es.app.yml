@@ -13,10 +13,10 @@ es:
       index:
         title: "Archivos"
       show:
-        title: "Grupo '{{group}}'"
+        title: "Grupo '%{group}'"
         clips: "Archivos"
       edit:
-        title: "Editar grupo '{{group}}'"
+        title: "Editar grupo '%{group}'"
       group:
         name: "Nombre"
         
